@@ -1,19 +1,16 @@
-IRTF Proposed Research Group: Sustainability and the Internet Research Group
- 
-				(SUSTAIN RG)
+# IRTF Proposed Research Group: Sustainability and the Internet Research Group (SUSTAIN RG)
 
 		Draft Charter Proposal v1.0 (31 October 2024)
 
-Vision:
+## Vision
 
-The long-term goal of the SUSTAIN RG is to contribute to the advancement of the Internet as 
+The long-term goal of the Sustainability and the Internet Research Group (SUSTAIN RG) is to contribute to the advancement of the Internet as 
 a fundamental part of sustainable and resilient societies and planet, through conceptual and 
 evidence-based research collaboration.
 
-Scope:
+## Scope
 
-The Sustainability and the Internet Research Group (SUSTAIN RG) will explore research 
-challenges in developing and operating a sustainable Internet, from a networking 
+The SUSTAIN RG will identify and explore research challenges in developing and operating a sustainable Internet, from a networking 
 perspective. It will provide a venue for discussion, collaboration and development of longer-
 term Internet research on sustainability and its trustworthy dissemination. Grounded in the 
 practical operation of the Internet, the RG will work to bring greater understanding of 
@@ -26,7 +23,7 @@ the Internet (footprint), while fostering an appreciation of the Internet for Su
 the interdependencies between different types of networks as well as different research 
 disciplines. 
 
-Background:
+## Background
 
 The Internet is a global critical infrastructure, on which societies, individuals and businesses 
 depend. It is expected to play a positive role in tackling global challenges such as climate 
@@ -45,7 +42,7 @@ the absence of practical methodologies and examples to do so. SUSTAIN RG will
 systematically work to frame these challenges for the benefit of the Internet community - 
 architects, developers, operators, users, and policy makers alike. 
 
-Research areas:
+## Research areas
 
 SUSTAIN RG will invite contributions on topics relating to the long-term sustainability of the 
 Internet:
@@ -83,7 +80,7 @@ and regulatory aspects.
 resilience in the face of sustainability challenges, considering resource impacts, 
 carbon efficiency and operational complexity.
 
-Mode of operation:
+## Mode of operation
 
 The SUSTAIN RG will solicit academic, governmental and industrial research contributions to 
 enhance the state of the art and our understanding of the relationship between the Internet 
@@ -112,6 +109,8 @@ community but defers to the IETF for technology standardization. The aim of the 
 output would be to take stock of state-of-the-art research results, making recommendations 
 on standardization gaps, policy concerns, and strategy opportunities with the broader 
 Internet community.
+
+## Authorship 
 
 Authored by Ali Rezaki and Eve Schooler. V1.0 on 31 October 2024.
 
