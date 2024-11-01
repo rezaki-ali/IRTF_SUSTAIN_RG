@@ -110,6 +110,8 @@ output would be to take stock of state-of-the-art research results, making recom
 on standardization gaps, policy concerns, and strategy opportunities with the broader 
 Internet community.
 
+## Authorship 
+
 Authored by Ali Rezaki and Eve Schooler. V1.0 on 31 October 2024.
 
 Many thanks to Colin Perkins, Jari Arkko, Suresh Krishnan, Noa Zilberman, Jukka Manner, 
