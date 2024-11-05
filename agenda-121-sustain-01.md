@@ -18,7 +18,7 @@ Contacts: Ali Rezaki (ali.rezaki@nokia.com), Eve Schooler (eve.schooler@gmail.co
 Presenter: Eve Schooler (University of Oxford)  
 Slides: https://github.com/rezaki-ali/IRTF_SUSTAIN_RG/  
     
-### 02) 14:45 | 20 min | Title: Proposed Charter  
+### 02) 14:45 | 20 min | Title: Proposed Charter and Initial Output  
 Presenter: Ali Rezaki (Nokia)  
 Slides: https://github.com/rezaki-ali/IRTF_SUSTAIN_RG/  
 Charter: https://github.com/rezaki-ali/IRTF_SUSTAIN_RG/blob/main/IRTF_Proposed_Research_Group_SUSTAIN_RG_Draft_Charter_v1_0.pdf  
