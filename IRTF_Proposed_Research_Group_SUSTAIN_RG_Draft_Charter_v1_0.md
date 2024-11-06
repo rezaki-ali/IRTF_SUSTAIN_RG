@@ -5,7 +5,7 @@
 ## Vision
 
 The long-term goal of the Sustainability and the Internet Research Group (SUSTAIN RG) is to contribute to the advancement of the Internet as 
-a fundamental part of sustainable and resilient societies and planet, through conceptual and 
+a fundamental part of sustainable and resilient societies and planets, through conceptual and 
 evidence-based research collaboration.
 
 ## Scope
